@@ -46,41 +46,34 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\amode\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "/Users/amaury/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Dev\\Mi8\\Training\\Pluralsight\\ASP.NET.Core\\OdeToFoodTraining\\OdeToFood\\OdeToFood.csproj",
+      "projectUniqueName": "/Users/amaury/Dev/OdeToFood/OdeToFood/OdeToFood.csproj",
       "projectName": "OdeToFood",
-      "projectPath": "D:\\Dev\\Mi8\\Training\\Pluralsight\\ASP.NET.Core\\OdeToFoodTraining\\OdeToFood\\OdeToFood.csproj",
-      "packagesPath": "C:\\Users\\amode\\.nuget\\packages\\",
-      "outputPath": "D:\\Dev\\Mi8\\Training\\Pluralsight\\ASP.NET.Core\\OdeToFoodTraining\\OdeToFood\\obj\\",
+      "projectPath": "/Users/amaury/Dev/OdeToFood/OdeToFood/OdeToFood.csproj",
+      "packagesPath": "/Users/amaury/.nuget/packages/",
+      "outputPath": "/Users/amaury/Dev/OdeToFood/OdeToFood/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\amode\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "/Users/amaury/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\Dev\\Mi8\\Training\\Pluralsight\\ASP.NET.Core\\OdeToFoodTraining\\OdeToFood.Core\\OdeToFood.Core.csproj": {
-              "projectPath": "D:\\Dev\\Mi8\\Training\\Pluralsight\\ASP.NET.Core\\OdeToFoodTraining\\OdeToFood.Core\\OdeToFood.Core.csproj"
+            "/Users/amaury/Dev/OdeToFood/OdeToFood.Core/OdeToFood.Core.csproj": {
+              "projectPath": "/Users/amaury/Dev/OdeToFood/OdeToFood.Core/OdeToFood.Core.csproj"
             },
-            "D:\\Dev\\Mi8\\Training\\Pluralsight\\ASP.NET.Core\\OdeToFoodTraining\\OdeToFood.Data\\OdeToFood.Data.csproj": {
-              "projectPath": "D:\\Dev\\Mi8\\Training\\Pluralsight\\ASP.NET.Core\\OdeToFoodTraining\\OdeToFood.Data\\OdeToFood.Data.csproj"
+            "/Users/amaury/Dev/OdeToFood/OdeToFood.Data/OdeToFood.Data.csproj": {
+              "projectPath": "/Users/amaury/Dev/OdeToFood/OdeToFood.Data/OdeToFood.Data.csproj"
             }
           }
         }
@@ -111,7 +104,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.401/RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Gi2jUY9iHradho0cvUwsB4FjX7GJ/+k29OAvYNlANHZu8k9bNbqCJRn0+0eDE0h501t8g+ZQ9KIcFi/Z0Cpq3g==",
+  "dgSpecHash": "OeAcOjOTrSnjaouYmI20GpZppyngBc1FOXYTdXvd4xj2QyKVlgMex+SEJoyl195LMH3FjQ3Rdd6/7i9Dra3m8g==",
   "success": true,
-  "projectFilePath": "D:\\Dev\\Mi8\\Training\\Pluralsight\\ASP.NET.Core\\OdeToFoodTraining\\OdeToFood.Core\\OdeToFood.Core.csproj",
+  "projectFilePath": "/Users/amaury/Dev/OdeToFood/OdeToFood.Core/OdeToFood.Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
