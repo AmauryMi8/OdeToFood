@@ -18,11 +18,25 @@
         </div>
     </form>*@
 
+@*@<form method="get">
+        <div class="form-group">
+            <div class="input-group">
+                <input type="search" class="form-control" asp-for="SearchTerm" />
+                <!--input type="submit" value="Search" /-->
+            </div>
+        </div>
+    </form>*@
+
 <form method="get">
     <div class="form-group">
         <div class="input-group">
             <input type="search" class="form-control" asp-for="SearchTerm" />
-            @*<input type="submit" value="Search" />*@
+            <span class="input-group-append">
+                <button class="btn btn-secondary">
+                    OK
+                </button>
+            </span>
+
         </div>
     </div>
 </form>
@@ -35,13 +49,15 @@
             <td>@restaurant.Location</td>
             <td>@restaurant.Cuisine</td>
             <td>
-                <a asp-page="./Detail"
+                <a class="btn btn-secondary"
+                   asp-page="./Detail"
                    asp-route-restaurantId="@restaurant.Id">
-                    <input type="submit" value="Details" />
+                    Detail
                 </a>
-                <a asp-page="./Edit"
+                <a class="btn btn-secondary"
+                   asp-page="./Edit"
                    asp-route-restaurantId="@restaurant.Id">
-                    <input type="submit" value="Edit" />
+                    Edit
                 </a>
             </td>
         </tr>

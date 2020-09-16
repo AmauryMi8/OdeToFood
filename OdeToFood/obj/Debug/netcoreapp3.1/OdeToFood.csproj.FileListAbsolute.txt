@@ -83,3 +83,4 @@ D:/Dev/Mi8/Training/Pluralsight/ASP.NET.Core/OdeToFood/bin/Debug/netcoreapp3.1/O
 /Users/amaury/Dev/OdeToFood/OdeToFood/obj/Debug/netcoreapp3.1/OdeToFood.pdb
 /Users/amaury/Dev/OdeToFood/OdeToFood/obj/Debug/netcoreapp3.1/OdeToFood.genruntimeconfig.cache
 /Users/amaury/Dev/OdeToFood/OdeToFood/obj/Debug/netcoreapp3.1/Razor/Pages/Restaurants/NotFound.cshtml.g.cs
+/Users/amaury/Dev/OdeToFood/OdeToFood/obj/Debug/netcoreapp3.1/Razor/Pages/Restaurants/Edit.cshtml.g.cs
