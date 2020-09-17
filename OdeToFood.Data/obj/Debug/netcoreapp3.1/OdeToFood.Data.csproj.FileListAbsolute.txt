@@ -22,3 +22,15 @@ D:/Dev/Mi8/Training/Pluralsight/ASP.NET.Core/OdeToFood.Data/obj/Debug/netcoreapp
 /Users/amaury/Dev/OdeToFood/OdeToFood.Data/obj/Debug/netcoreapp3.1/OdeToFood.Data.csproj.CopyComplete
 /Users/amaury/Dev/OdeToFood/OdeToFood.Data/obj/Debug/netcoreapp3.1/OdeToFood.Data.dll
 /Users/amaury/Dev/OdeToFood/OdeToFood.Data/obj/Debug/netcoreapp3.1/OdeToFood.Data.pdb
+D:\Dev\Mi8\Training\Pluralsight\ASP.NET.Core\OdeToFoodTraining\OdeToFood.Data\bin\Debug\netcoreapp3.1\OdeToFood.Data.deps.json
+D:\Dev\Mi8\Training\Pluralsight\ASP.NET.Core\OdeToFoodTraining\OdeToFood.Data\bin\Debug\netcoreapp3.1\OdeToFood.Data.dll
+D:\Dev\Mi8\Training\Pluralsight\ASP.NET.Core\OdeToFoodTraining\OdeToFood.Data\bin\Debug\netcoreapp3.1\OdeToFood.Data.pdb
+D:\Dev\Mi8\Training\Pluralsight\ASP.NET.Core\OdeToFoodTraining\OdeToFood.Data\bin\Debug\netcoreapp3.1\OdeToFood.Core.dll
+D:\Dev\Mi8\Training\Pluralsight\ASP.NET.Core\OdeToFoodTraining\OdeToFood.Data\bin\Debug\netcoreapp3.1\OdeToFood.Core.pdb
+D:\Dev\Mi8\Training\Pluralsight\ASP.NET.Core\OdeToFoodTraining\OdeToFood.Data\obj\Debug\netcoreapp3.1\OdeToFood.Data.csprojAssemblyReference.cache
+D:\Dev\Mi8\Training\Pluralsight\ASP.NET.Core\OdeToFoodTraining\OdeToFood.Data\obj\Debug\netcoreapp3.1\OdeToFood.Data.AssemblyInfoInputs.cache
+D:\Dev\Mi8\Training\Pluralsight\ASP.NET.Core\OdeToFoodTraining\OdeToFood.Data\obj\Debug\netcoreapp3.1\OdeToFood.Data.AssemblyInfo.cs
+D:\Dev\Mi8\Training\Pluralsight\ASP.NET.Core\OdeToFoodTraining\OdeToFood.Data\obj\Debug\netcoreapp3.1\OdeToFood.Data.csproj.CoreCompileInputs.cache
+D:\Dev\Mi8\Training\Pluralsight\ASP.NET.Core\OdeToFoodTraining\OdeToFood.Data\obj\Debug\netcoreapp3.1\OdeToFood.Data.csproj.CopyComplete
+D:\Dev\Mi8\Training\Pluralsight\ASP.NET.Core\OdeToFoodTraining\OdeToFood.Data\obj\Debug\netcoreapp3.1\OdeToFood.Data.dll
+D:\Dev\Mi8\Training\Pluralsight\ASP.NET.Core\OdeToFoodTraining\OdeToFood.Data\obj\Debug\netcoreapp3.1\OdeToFood.Data.pdb

@@ -1,25 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "/Users/amaury/Dev/OdeToFood/OdeToFood.Core/OdeToFood.Core.csproj": {}
+    "D:\\Dev\\Mi8\\Training\\Pluralsight\\ASP.NET.Core\\OdeToFoodTraining\\OdeToFood.Core\\OdeToFood.Core.csproj": {}
   },
   "projects": {
-    "/Users/amaury/Dev/OdeToFood/OdeToFood.Core/OdeToFood.Core.csproj": {
+    "D:\\Dev\\Mi8\\Training\\Pluralsight\\ASP.NET.Core\\OdeToFoodTraining\\OdeToFood.Core\\OdeToFood.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/amaury/Dev/OdeToFood/OdeToFood.Core/OdeToFood.Core.csproj",
+        "projectUniqueName": "D:\\Dev\\Mi8\\Training\\Pluralsight\\ASP.NET.Core\\OdeToFoodTraining\\OdeToFood.Core\\OdeToFood.Core.csproj",
         "projectName": "OdeToFood.Core",
-        "projectPath": "/Users/amaury/Dev/OdeToFood/OdeToFood.Core/OdeToFood.Core.csproj",
-        "packagesPath": "/Users/amaury/.nuget/packages/",
-        "outputPath": "/Users/amaury/Dev/OdeToFood/OdeToFood.Core/obj/",
+        "projectPath": "D:\\Dev\\Mi8\\Training\\Pluralsight\\ASP.NET.Core\\OdeToFoodTraining\\OdeToFood.Core\\OdeToFood.Core.csproj",
+        "packagesPath": "C:\\Users\\amode\\.nuget\\packages\\",
+        "outputPath": "D:\\Dev\\Mi8\\Training\\Pluralsight\\ASP.NET.Core\\OdeToFoodTraining\\OdeToFood.Core\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "/Users/amaury/.config/NuGet/NuGet.Config"
+          "C:\\Users\\amode\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -50,7 +56,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.401/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
